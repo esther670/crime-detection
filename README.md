@@ -36,25 +36,6 @@ The dataset provided for this competition includes detailed information about cr
 - **Status_Description**: Description of the status code.
 - **Crime_Category**: The category of the crime (Target Variable).
 
-## Methodology
-1. **Data Exploration and Preprocessing**: 
-   - Analyze the dataset to understand the distribution and relationships between features.
-   - Handle missing values, outliers, and perform necessary data transformations.
-
-2. **Feature Engineering**: 
-   - Create new features from existing ones to improve model performance.
-   - Encode categorical variables and scale numerical features.
-
-3. **Model Building**: 
-   - Experiment with various machine learning algorithms to find the best model.
-   - Use techniques like cross-validation and hyperparameter tuning to optimize model performance.
-
-4. **Evaluation**: 
-   - Evaluate the models using appropriate metrics to ensure they generalize well to unseen data.
-   - Compare the performance of different models and select the best one for final predictions.
-
-5. **Submission**: 
-   - Generate predictions for the test set and prepare the submission file in the required format.
 
 ## Citation
 iitmbscs2008p. (2024). CrimeCast: Forecasting Crime Categories. Kaggle. https://kaggle.com/competitions/crime-cast-forecasting-crime-categories
